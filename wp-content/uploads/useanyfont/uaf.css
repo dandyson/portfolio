@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'barlow-black';
+					src: url('/wp-content/uploads/useanyfont/9214Barlow-Black.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/9214Barlow-Black.woff') format('woff');
+					font-display: auto;
+				}
+
+				.barlow-black{font-family: 'barlow-black' !important;}
+
+						h1{
+					font-family: 'barlow-black' !important;
+				}
+		
